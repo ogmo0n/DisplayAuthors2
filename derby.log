@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Apr 06 13:50:49 EDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0162-9c15-1113-00000ac7ab38 
+on database directory C:\Users\Student\Documents\CIS319\JavaProjects\Odden_GuidedPractice_4_3\bookDB\books with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_131/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=C:\Users\Student\Documents\CIS319\JavaProjects\Odden_GradedExercise_4_1
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
